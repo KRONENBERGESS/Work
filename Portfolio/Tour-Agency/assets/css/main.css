@@ -3381,19 +3381,20 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#intro {
-				padding: 3rem 2rem 1rem 2rem ;
+				padding: 2rem 1rem 1rem 2rem ;
 				min-height: 80vh;
 			}
 
 				#intro h1 {
-					font-size: 3.25rem;
+					font-size: 2.25rem;
 					line-height: 1.1;
 					margin-bottom: 1rem;
 				}
 
 				#intro p {
-					font-size: 1rem;
+					font-size: 0.5rem;
 					margin-top: 0rem;
+					width: 100%
 				}
 
 				#intro .actions {
