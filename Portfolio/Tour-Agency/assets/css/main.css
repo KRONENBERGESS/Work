@@ -3386,8 +3386,9 @@ input, select, textarea {
 				min-height: 80vh;
 			}
 
-				#intro h1 {
-					font-size: 3.25rem;
+				#intro h1,
+				.h1-2 {
+					font-size: 2.25rem;
 					line-height: 1.1;
 					margin-bottom: 1rem;
 				}
