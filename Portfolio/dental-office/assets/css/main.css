@@ -2616,15 +2616,7 @@ input, select, textarea {
 				margin-top: 0;
 			}
 
-	body.index #main {
-		padding-top: 5em;
-	}
-
-	body.about-us #main .content {
-		position: relative;
-		left: 11.5em;
-		color:#1c2021
-	}
+	
 
 /* CTA */
 
